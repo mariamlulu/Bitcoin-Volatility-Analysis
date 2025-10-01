@@ -4,6 +4,7 @@ This project explores Bitcoin historical price data to analyze volatility, trend
 The dataset includes daily open, high, low, close, and volume values.  
 
 The goal is to use **statistics + Python visualization** to uncover insights into the behavior of Bitcoin returns.  
+Data Set used: https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
 
 ---
 
@@ -48,6 +49,5 @@ The goal is to use **statistics + Python visualization** to uncover insights int
 ```text
 Crypto-Stats-EDA/
 │
-├── crypto_stats_analysis.ipynb   # Main Colab notebook
-├── bitcoin.csv                   # Dataset (Bitcoin historical data)                     
+├── crypto_stats_analysis.ipynb   # Main Colab notebook                  
 └── README.md                     # Project documentation
